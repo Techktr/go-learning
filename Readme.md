@@ -172,7 +172,7 @@
 
 ## 📚 Compétences à acquérir
 
-- [ ] Tests unitaires (myps)
+- [x] Tests unitaires (myps)
 - [ ] Fyne GUI
 - [x] Ebiten game dev (en cours)
 - [ ] Réseau TCP/UDP
