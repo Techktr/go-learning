@@ -193,7 +193,7 @@
 - 🔄 Container runtime (à commencer)
 
 **Mois 2 (Février 2026):**
-- [ ] Finir tests myps
+- [x] Finir tests myps
 - [ ] Container runtime complet
 - [ ] Message broker basique
 - [ ] Jeu de la Vie + Fyne
